@@ -1,6 +1,6 @@
-# One Month Rails
+# Damien's first application
 
 This is the pinteresting sample application for 
-[*One Month Rails*] (http://onemonthrails.com)
+[Damien Albino's] (http://www.google.com) programming start up
 
-by [Mattan Griffel](http://mattangriffel.com)
+by [Damien](http://www.google.com)
