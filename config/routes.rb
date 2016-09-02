@@ -1,11 +1,7 @@
 Rails.application.routes.draw do
   
-  # devise_for :users 
+  devise_for :users 
     
-  devise_scope :user do
-  match '/users/sign_out' => 'devise/sessions#destroy', :as => :destroy_user_session, via: [:get, :delete]
-end
-  
   
   root 'pages#home'
   
