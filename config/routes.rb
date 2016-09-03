@@ -7,7 +7,7 @@ Rails.application.routes.draw do
   
   get 'about' => 'pages#about'
   
-  delete 'destroy_user_session' => 'devise/sessions#destroy'  
+  get 'destroy_user_session' => 'devise/sessions#destroy'  
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
